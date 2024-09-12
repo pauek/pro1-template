@@ -1,0 +1,10 @@
+{
+  "[cpp]": {
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "editor.useTabStops": true,
+    "editor.indentSize": "tabSize",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 100
+  }
+}
